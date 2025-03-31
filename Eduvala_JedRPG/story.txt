@@ -3,13 +3,13 @@
 3 | You sail the larger boat called the Thousand Sunny to the volcanic island. | 6 | 7
 4 | The mist clears and reveals a hidden path to the secret Amazon Lily island. | 8 | 9
 5 | You row around the island and find a cave entrance. | 9 | 10
-6 | On the volcanic island, you meet a suspicious trader. | 11 | 12
-7 | A lava flow blocks your path inland. | 13 | 14
-8 | You follow the jungle path to ancient ruins. | 15 | -1
+6 | Dock at the volcanic island and you meet a trader named Silvers Rayleigh. | 11 | 12
+7 | Go towards a lava flow that blocks your path inland but there is something behind it that captures your attention. | 13 | 14
+8 | You follow the jungle path to ancient ruins also known as Skypiea. | 15 | -1
 9 | Inside the cave, you discover symbols matching your map. | 15 | -1
-10 | The cave narrows, revealing a buried shipwreck. | 15 | -1
-11 | The trader offers a compass in exchange for your map. | 15 | -1
-12 | You sneak past the trader into a tunnel. | 15 | -1
-13 | You build a raft to escape the lava. | 15 | -1
-14 | You climb a cliff to find an overlook of the islands. | 15 | -1
+10 | The cave narrows, revealing a buried shipwreck of the famous ship called the Moby Dick. | 15 | -1
+11 | The trader offers a log pose in exchange for your map. | 15 | -1
+12 | You sneak past Rayleigh into a tunnel. | 15 | -1
+13 | You go on a smaller raft to navigate through the lava easier. | 15 | -1
+14 | You dock and climb a cliff to find an overlook of the islands. | 15 | -1
 15 | All clues point to the final island — the One Piece treasure awaits. | -1 | -1
