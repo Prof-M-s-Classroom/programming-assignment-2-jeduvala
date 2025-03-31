@@ -1,6 +1,15 @@
-1 | You wake up in a forest clearing. There are two paths. | 2 | 3
-2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | 7 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1
+1 | You wash ashore on the first island, clutching a torn map. Two boats wait. | 2 | 3
+2 | You take the smaller boat called the Going Merry to the misty island. | 4 | 5
+3 | You sail the larger boat called the Thousand Sunny to the volcanic island. | 6 | 7
+4 | The mist clears and reveals a hidden path to the secret Amazon Lily island. | 8 | 9
+5 | You row around the island and find a cave entrance. | 9 | 10
+6 | On the volcanic island, you meet a suspicious trader. | 11 | 12
+7 | A lava flow blocks your path inland. | 13 | 14
+8 | You follow the jungle path to ancient ruins. | 15 | -1
+9 | Inside the cave, you discover symbols matching your map. | 15 | -1
+10 | The cave narrows, revealing a buried shipwreck. | 15 | -1
+11 | The trader offers a compass in exchange for your map. | 15 | -1
+12 | You sneak past the trader into a tunnel. | 15 | -1
+13 | You build a raft to escape the lava. | 15 | -1
+14 | You climb a cliff to find an overlook of the islands. | 15 | -1
+15 | All clues point to the final island — the One Piece treasure awaits. | -1 | -1
