@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jededuvala/Desktop/programming-assignment-2-jeduvala
+# Install script for directory: /Users/jededuvala/Desktop/programming-assignment-2-jeduvala/Eduvala_JedRPG
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/jededuvala/Desktop/programming-assignment-2-jeduvala/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/jededuvala/Desktop/programming-assignment-2-jeduvala/Eduvala_JedRPG/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
